@@ -2,7 +2,7 @@
 
 ### **🚀 Desenvolvedor Back-end Java em Formação**
 
-Olá, Me chamo Victor Martins Santos, tenho 21 anos, sou de Sãu Luís-MA. Atualmente estou cursando Sistemas de Informação no CEST. paralelamente estudo Back-end Java. Sou apaixonado por tecnologia e resolução de problemas.
+Olá, Me chamo Victor Martins Santos, tenho 21 anos, sou de Sãu Luís-MA. Atualmente estou cursando Sistemas de Informação no CEST, paralelamente estudo Back-end Java. Sou apaixonado por tecnologia e resolução de problemas.
 
 ---
 
