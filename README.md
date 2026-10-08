@@ -1,2 +1,2 @@
-## Hi there 👋 Im̀ Victor Martins
+## Hi there 👋 I'm Victor Martins
 
