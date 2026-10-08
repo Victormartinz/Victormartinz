@@ -73,7 +73,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-pla
 
 ## 📫 Conecte-se comigo
 
-<a href="www.linkedin.com/in/victorrmartinss">
+<a href="https://www.linkedin.com/in/victorrmartinss/?isSelfProfile=true">
 <img 
     align="left" 
     alt="Docker"
